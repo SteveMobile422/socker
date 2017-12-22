@@ -1,0 +1,56 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Calibri
+fontFile=
+charSet=0
+fontSize=-60
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=1
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=0
+useClearType=1
+
+# character alignment
+paddingDown=6
+paddingUp=6
+paddingRight=6
+paddingLeft=6
+spacingHoriz=6
+spacingVert=6
+useFixedHeight=1
+forceZero=0
+
+# output file
+outWidth=1024
+outHeight=1024
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=0
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=2
+
+# selected chars
+chars=0-0,13,32-90,92,95,97-122,124,126,163-165,169,174,8208,8216-8223,8226,8253,8287,8356,8364,8378,8482
+
+
+# imported icon images

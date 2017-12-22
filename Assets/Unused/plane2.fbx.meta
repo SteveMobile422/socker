@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 0fc8e25ebece54a48bcff0b6a0bf3fab
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: ogonowy
+    100002: //RootNode
+    100004: skrzydlo_lewe
+    100006: skrzydlo_prawe
+    100008: smiglo
+    100010: statecznik_lewy
+    100012: statecznik_prawy
+    100014: ster_lewy
+    100016: ster_prawy
+    100018: tylni_lewy
+    100020: tylni_prawy
+    400000: ogonowy
+    400002: //RootNode
+    400004: skrzydlo_lewe
+    400006: skrzydlo_prawe
+    400008: smiglo
+    400010: statecznik_lewy
+    400012: statecznik_prawy
+    400014: ster_lewy
+    400016: ster_prawy
+    400018: tylni_lewy
+    400020: tylni_prawy
+    2300000: ogonowy
+    2300002: //RootNode
+    2300004: skrzydlo_lewe
+    2300006: skrzydlo_prawe
+    2300008: smiglo
+    2300010: statecznik_lewy
+    2300012: statecznik_prawy
+    2300014: ster_lewy
+    2300016: ster_prawy
+    2300018: tylni_lewy
+    2300020: tylni_prawy
+    3300000: ogonowy
+    3300002: //RootNode
+    3300004: skrzydlo_lewe
+    3300006: skrzydlo_prawe
+    3300008: smiglo
+    3300010: statecznik_lewy
+    3300012: statecznik_prawy
+    3300014: ster_lewy
+    3300016: ster_prawy
+    3300018: tylni_lewy
+    3300020: tylni_prawy
+    4300000: plane_2
+    4300002: skrzydlo_lewe
+    4300004: ster_lewy
+    4300006: skrzydlo_prawe
+    4300008: ster_prawy
+    4300010: statecznik_lewy
+    4300012: tylni_lewy
+    4300014: statecznik_prawy
+    4300016: tylni_prawy
+    4300018: ogonowy
+    4300020: smiglo
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.70000005
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 175
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

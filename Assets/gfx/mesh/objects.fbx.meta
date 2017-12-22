@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 1fb06152db52c744b96e2e65a8d34ea3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: rock_1
+    100004: rock_2
+    100006: rock_3
+    100008: wood_4
+    100010: wood_5
+    100012: wood_6
+    100014: wood_7
+    100016: wood_8
+    100018: wood_9
+    100020: rock_4
+    100022: rock_5
+    100024: wood_10
+    100026: wood_11
+    100028: wood_12
+    100030: wood_13
+    400000: //RootNode
+    400002: rock_1
+    400004: rock_2
+    400006: rock_3
+    400008: wood_4
+    400010: wood_5
+    400012: wood_6
+    400014: wood_7
+    400016: wood_8
+    400018: wood_9
+    400020: rock_4
+    400022: rock_5
+    400024: wood_10
+    400026: wood_11
+    400028: wood_12
+    400030: wood_13
+    2300000: rock_1
+    2300002: rock_2
+    2300004: rock_3
+    2300006: wood_4
+    2300008: wood_5
+    2300010: wood_6
+    2300012: wood_7
+    2300014: wood_8
+    2300016: wood_9
+    2300018: rock_4
+    2300020: rock_5
+    2300022: wood_10
+    2300024: wood_11
+    2300026: wood_12
+    2300028: wood_13
+    3300000: rock_1
+    3300002: rock_2
+    3300004: rock_3
+    3300006: wood_4
+    3300008: wood_5
+    3300010: wood_6
+    3300012: wood_7
+    3300014: wood_8
+    3300016: wood_9
+    3300018: rock_4
+    3300020: rock_5
+    3300022: wood_10
+    3300024: wood_11
+    3300026: wood_12
+    3300028: wood_13
+    4300000: rock_1
+    4300002: rock_2
+    4300004: rock_3
+    4300006: wood_4
+    4300008: wood_5
+    4300010: wood_6
+    4300012: wood_7
+    4300014: wood_8
+    4300016: wood_9
+    4300018: wood_10
+    4300020: wood_11
+    4300022: rock_4
+    4300024: rock_5
+    4300026: wood_12
+    4300028: wood_13
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
